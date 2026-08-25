@@ -204,7 +204,7 @@ The SQL analysis was transformed into an interactive **Power BI dashboard** to p
 
 ### Dashboard Preview
 
-![CARS24 Power BI Dashboard](screenshots/cars24_dashboard.png)
+![CARS24 Power BI Dashboard](cars24_dashboard.png)
 
 ---
 
